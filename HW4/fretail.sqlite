@@ -1,0 +1,14 @@
+**Retrieve product_id of brand Adidas:**
+```
+SELECT product_id
+FROM brands
+WHERE brand = 'Adidas';
+```
+
+**Determine the brand with least discount:**
+```
+SELECT brand
+FROM brands
+ORDER BY discount ASC
+LIMIT 1;
+```

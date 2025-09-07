@@ -1,0 +1,4 @@
+{
+    "query": "Indonesia dengan nama resmi Republik Indonesia adalah sebuah negara kepulauan di Asia Tenggara yang dilintasi garis khatulistiwa dan berada di antara daratan benua Asia dan Oseania sehingga dikenal sebagai negara lintas benua, serta antara Samudra Pasifik dan Samudra Hindia.",
+    "response": "```json\n{\n \"Entities\": [\n  {\n   \"Text\": \"Indonesia\",\n   \"Type\": \"LOC\",\n   \"BeginOffset\": 0,\n   \"EndOffset\": 8\n  },\n  {\n   \"Text\": \"Republik Indonesia\",\n   \"Type\": \"ORG\",\n   \"BeginOffset\": 11,\n   \"EndOffset\": 28\n  },\n  {\n   \"Text\": \"Asia Tenggara\",\n   \"Type\": \"LOC\",\n   \"BeginOffset\": 42,\n   \"EndOffset\": 54\n  },\n  {\n   \"Text\": \"Samudra Pasifik\",\n   \"Type\": \"LOC\",\n   \"BeginOffset\": 84,\n   \"EndOffset\": 98\n  },\n  {\n   \"Text\": \"Samudra Hindia\",\n   \"Type\": \"LOC\",\n   \"BeginOffset\": 101,\n   \"EndOffset\": 115\n  }\n ],\n \"Relations\": []\n}\n```"
+}
